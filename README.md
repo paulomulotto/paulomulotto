@@ -8,7 +8,7 @@
 <h4>🤝 Conecte-se comigo:</h4>
 
 - Curso <a href="https://paginavendas.programandoseuemprego.com.br/">Programando seu Emprego</a>
-- Instagram: <a href="https://www.instagram.com/devpaulo_/">@devpaulo_</a>
+- Instagram: <a href="https://www.instagram.com/programandocompaulo/">@programandocompaulo</a>
 - <a href="https://www.youtube.com/channel/UChaxb4gkwfLf5Y3K4kZcTgA">YouTube</a>
 - <a href="https://www.linkedin.com/in/paulo-mulotto/">LinkedIn</a>
 
@@ -16,3 +16,5 @@
 paulomulotto/paulomulotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[Instagram](https://www.instagram.com/programandocompaulo/)
