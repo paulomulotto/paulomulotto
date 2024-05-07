@@ -1,4 +1,7 @@
 ## Hey! 👋
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/paulo-mulotto/?locale=en_US)
+
+
 I'm Paulo, a Senior Software Engineer / Python and AWS Developer from Brasil.
 - 🦔 Founder of [The Future Programmer](http://lp.ofuturoprogramador.com.br)
 - 👨🏻‍🎓 Computer Engineer at [UNICAMP](https://ic.unicamp.br)
